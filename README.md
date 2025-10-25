@@ -19,6 +19,8 @@ This project builds a Deep Convolutional Generative Adversarial Network (DCGAN) 
 3. Generative Adversarial Networks (GANs): implementing the generator-discriminator architecture)
 
 ## Results
+![Modified Model2 Results](assets/Modified-Model2-Results.png)
+![Modified Model5 Results](assets/Modified-Model5-Results.png)
 1. Created functional GAN capable of generating new images
 2. Through iterative experimentation with adjusting model architecture resulting higher epoch didn't instanly giving best results, because the modified 2 model is still outperfomed model with FID Score of 102.41 with lower epoch (200) and batch size (32) for much faster training
    
